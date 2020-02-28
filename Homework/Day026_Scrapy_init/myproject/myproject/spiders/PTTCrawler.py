@@ -9,7 +9,7 @@ from pprint import pprint
 class PttcrawlerSpider(scrapy.Spider):
     name = 'PTTCrawler'
     allowed_domains = ['www.ptt.cc']
-    start_urls = ['https://www.ptt.cc/bbs/Gossiping/M.1557928779.A.0C1.html']
+    start_urls = ['https://www.ptt.cc/bbs/EAseries/M.1582770793.A.5E9.html']
     cookies = {'over18': '1'}
 
     def start_requests(self):
