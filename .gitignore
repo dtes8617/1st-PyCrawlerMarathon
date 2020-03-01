@@ -1,6 +1,7 @@
 *.csv
 *.json
 *.jpeg
+*.png
 *.jpg
 Homework/Data/
 Homework/WikiArticle
